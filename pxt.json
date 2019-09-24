@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-ir-robo": "workspace:c6c3c052-d041-41b9-d9f4-eb9d2fe53704"
     },
     "files": [
         "README.md",
